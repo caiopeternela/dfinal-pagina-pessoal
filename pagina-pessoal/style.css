@@ -112,6 +112,7 @@ img {
 
 .nav-list a:hover {
   background: var(--main-beige);
+  color: var(--main-orange);
 }
 
 .welcome-section {
